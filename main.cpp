@@ -2,7 +2,7 @@
 
 #include "PM2_Drivers.h"
 
-# define M_PI 3.14159265358979323846 // number pi, an example in case you need it
+# define M_PI 3.1415926535897932384 // number pi, an example in case you need it
 
 
 bool do_execute_main_task = false; // this variable will be toggled via the user button (blue button) and decides whether to execute the main task or not
